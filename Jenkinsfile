@@ -1,3 +1,3 @@
 @library('roboshop')-
 
-demo()
+cipipeline()
